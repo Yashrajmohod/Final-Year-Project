@@ -1,1 +1,1 @@
-my-first-project
+Final Year Project
